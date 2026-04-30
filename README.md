@@ -75,13 +75,37 @@ GPA: 3.6 / 4.0
 
 ## Publications
 
-- AI-Driven Risk Management in Logistics: Predicting and Preventing Lost Orders Using Machine Learning
+- Internal Auditing in Llogistics: AI-driven and Advanced Analytics Solutions
+(CLC 2024 - Carpathian Logistics Congress - November 28 - 29,
+2024 AGH University of Krak´ow, Poland, EU)(in progress)
+- AI-Driven Risk Management in Logistics:
+Predicting and Preventing Lost Orders Using Machine Learning
+(DSC Next Conference 07 May 2025-08 May 2025 - Amsterdam, Netherlands)
+DOI: 10.5281/zenodo.18399343
 - Pedestrian Equipment Anomaly Detection with Computer Vision in Warehouses
-- Address Singularization with Text Similarity Algorithms
-- Dynamic Freight Pricing by Artificial Intelligence and Mathematical Hybrid System
-- The Less Than Truckload Hub Network Design with Serverless Architecture
+(10th International Conference on Machine Vision and Machine Learning,
+August 19, 2024 - August 21, 2024 — Barcelona, Spain)
+DOI: 10.11159/mvml24.110
+- Address Singularization with Text Similarity Algorithms: Address Management in the
+Logistics Industry
+(IN4PL 2023 4th International Conference on Innovative Intelligent Industrial
+Production and Logistics , Rome, Italy 15-17 November)
+DOI: 10.33422/4th.worldcme.2023.10.100
+- Dynamic Freight Pricing By Artificial Intelligence and Mathematical Hybrid System
+(2023 - CLC Logistics and Supply Chain Management, Prague, Czech Republic, EU)
+DOI: 10.37904/clc.2023.4859
+- The Less Than Truckload Hub Network Design With Serverless Architecture
+(2022 - CLC Logistics and Supply Chain Management, June 15 - 17, Bojnice, Slovakia, EU )
+DOI: 10.37904/clc.2022.4526
 - Design of Embedded System Based ECG Holter Device
+(2017 APJES Journal Vol: 5 Issue: 3 pp: 145-156)
+DOI: 10.21541/apjes.335275
 - Detection of Candidate Nodules in Lung Tomography by Image Processing Techniques
+(2017 21.st National Biomedical Engineering Meeting BIYOMUT)
+DOI: 10.1109/BIYOMUT.2017.8478990
+- Design of a Micro-Computer Based Real-Time ECG Holter Device
+(2017 ICETI Bosnia pp: 356-362)
+
 
 ---
 
