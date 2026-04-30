@@ -7,7 +7,6 @@
 **Lead of Data Science & Artificial Intelligence**  
 Istanbul, Turkey  
 📧 yesevi.turker@gmail.com  
-📞 +90 531 280 9599  
 
 ---
 
