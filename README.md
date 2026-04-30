@@ -70,22 +70,6 @@ GPA: 3.6 / 4.0
 
 ---
 
-## Selected Projects
-
-### AI-Driven Logistics Solutions
-Developed advanced analytics, machine learning, optimization, and AI-based solutions for logistics operations, including risk management, freight pricing, address management, and distribution network modeling.
-
-### Embedded ECG Holter Device and Arrhythmia Detection
-Designed an embedded ECG Holter system and developed arrhythmia detection models using artificial neural networks and genetic algorithms.
-
-### Lung Nodule Detection with Image Processing and AI
-Worked on lung CT image analysis using image processing, artificial neural networks, and genetic algorithm-based model optimization.
-
-### Türkiye Ventilator Device
-Contributed to the Biosys ventilator development project during the Covid-19 pandemic as part of the Baykar team, focusing on software development, signal processing, failure analysis, and system testing.
-
----
-
 ## Publications
 
 - AI-Driven Risk Management in Logistics: Predicting and Preventing Lost Orders Using Machine Learning
