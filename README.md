@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/images/profile.jpg" width="200" style="border-radius: 50%;" />
+</p>
 # Ahmet Yesevi Türker
 
 **Lead of Data Science & Artificial Intelligence**  
