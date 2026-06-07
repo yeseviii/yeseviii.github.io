@@ -1,4 +1,15 @@
-# AHMET YESEVI TURKER
+<div align="center">
+
+<img src="assets/ysv_img.png" width="220"/>
+
+# Ahmet Yesevi Türker
+
+Lead of Data Science & Artificial Intelligence
+
+Artificial Intelligence • Signal Processing • Advanced Analytics • Optimization • Generative AI
+
+Istanbul, Turkey
+
 
 📧 yesevi.turker@gmail.com  
 📍 Istanbul, Turkey  
