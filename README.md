@@ -1,269 +1,199 @@
 <p align="center">
-  <img src="assets/ysv_img.png" width="210" style="border-radius: 50%;" />
+  <img src="assets/ysv_img.png" width="220" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Ahmet Yesevi Türker</h1>
 
 <h3 align="center">
-Head of AI & Data Science | Enterprise AI Transformation | Generative AI | Decision Intelligence
+Lead of Data Science, Artificial Intelligence & Digital Transformation
 </h3>
 
 <p align="center">
-Designing and scaling intelligent systems that transform logistics, aerospace and industrial operations.
+Building Enterprise AI • Generative AI • Optimization • AI Agents • Logistics Intelligence
 </p>
 
 <p align="center">
-  <a href="mailto:yesevi.turker@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://github.com/">GitHub</a>
+📍 Istanbul, Turkey &nbsp;|&nbsp; 📧 yesevi.turker@gmail.com
 </p>
 
 ---
 
 ## Executive Profile
 
-I am an Artificial Intelligence and Data Science leader focused on building enterprise-scale AI capabilities that move organizations from data-driven reporting to AI-driven decision making.
+Artificial Intelligence and Data Science Leader with 8+ years of experience delivering large-scale AI, Machine Learning, Optimization and Digital Transformation initiatives across Logistics, Aerospace, Biomedical Engineering and Industrial Systems.
 
-My work combines Generative AI, AI Agents, Machine Learning, Optimization, Computer Vision and Advanced Analytics to solve complex operational problems and create measurable business value.
+Currently leading enterprise AI transformation programs focused on Generative AI platforms, AI Agents, predictive analytics, optimization systems, computer vision, enterprise AI integration and AI-as-a-Service architectures.
 
-I have led AI initiatives across logistics, aerospace, autonomous systems, biomedical engineering and industrial platforms — from research and prototyping to production-grade deployment, governance and enterprise integration.
-
-Today, my focus is on building AI-native organizations through scalable AI platforms, autonomous workflows, intelligent decision engines and enterprise AI transformation programs.
+My mission is to transform business operations into intelligent, scalable and autonomous systems through data-driven decision making.
 
 ---
 
-## Leadership Positioning
+## Leadership Highlights
 
-### What I Lead
-
-- Enterprise AI transformation programs
-- Generative AI and Agentic AI platforms
-- AI strategy, governance and delivery models
-- Data science and advanced analytics teams
-- AI-powered optimization and decision intelligence systems
-- Production-grade ML, CV and LLM applications
-- AI-as-a-Service and enterprise integration architectures
-
-### What I Build
-
-- Intelligent logistics platforms
-- AI agents for business operations
-- Predictive and prescriptive analytics systems
-- Dynamic pricing and optimization engines
-- Computer vision applications for operational safety
-- Enterprise knowledge and automation systems
-- Scalable cloud-native AI services
+- Leading enterprise-wide AI and data science initiatives
+- Delivering Generative AI and Agentic AI solutions
+- Designing AI-powered operational excellence platforms
+- Building scalable MLOps and AI deployment architectures
+- Driving digital transformation in logistics operations
+- Managing cross-functional AI teams and business stakeholders
+- Translating complex business challenges into measurable AI outcomes
 
 ---
 
-## Career Highlights
-
-### CEVA Logistics | CMA CGM Group
-**Lead of Data Science & Artificial Intelligence**  
-*2025 – Present*
-
-Leading enterprise-scale Artificial Intelligence and Data Science initiatives focused on transforming complex business challenges into scalable, production-ready systems.
-
-Key focus areas:
-
-- Enterprise AI strategy and platform development
-- Generative AI and AI Agent solutions
-- Advanced analytics and decision intelligence
-- Optimization, recommendation and forecasting systems
-- Cloud-native AI services and enterprise integration
-- Scalable AI architectures using REST APIs, Service Bus and distributed systems
-
----
-
-### Borusan Logistics
-**Lead of Artificial Intelligence & Advanced Analytics**  
-*2022 – 2025*
-
-Led the full lifecycle of AI and Data Science initiatives, from data extraction and preprocessing to model development, validation, deployment and business adoption.
-
-Key focus areas:
-
-- AI-powered operational efficiency
-- Cost optimization and decision support systems
-- Computer vision and anomaly detection
-- Dynamic pricing and logistics optimization
-- AI-as-a-Service architectures
-- Enterprise analytics transformation
-
----
-
-### Baykar Technologies
-**Team Lead of Signal Processing & Machine Learning**  
-*2018 – 2021*
-
-Led mission-critical AI, Machine Learning and Signal Processing projects for aerospace and autonomous systems.
-
-Key focus areas:
-
-- Real-time AI for autonomous systems
-- Anomaly detection and event classification
-- Embedded AI deployment with NVIDIA TensorRT
-- Flight-test validation and system integration
-- Time-series analytics and signal processing
-- AI model optimization for embedded GPU platforms
-
----
-
-### Baykar Technologies
-**Team Lead of Software Project Management**  
-*2020 – 2021*
-
-Coordinated AI project management activities and contributed to the creation of AI department standards, procedures, technical documentation and agile delivery governance.
-
----
-
-## Strategic AI Domains
-
-| Domain | Focus |
-|---|---|
-| Enterprise AI | AI strategy, governance, scalable AI platforms |
-| Generative AI | LLM applications, RAG, AI Agents, autonomous workflows |
-| Logistics Intelligence | Optimization, pricing, risk prediction, routing, network design |
-| Decision Intelligence | Forecasting, recommendation systems, predictive analytics |
-| Computer Vision | Safety monitoring, anomaly detection, industrial vision |
-| Embedded AI | Real-time inference, signal processing, autonomous systems |
-| AI Engineering | APIs, cloud, service bus, AIaaS, production ML systems |
-
----
-
-## Selected AI & Analytics Initiatives
-
-### Enterprise AI Platforms
-Designed and delivered scalable AI platforms integrating data science models, Generative AI capabilities and business-facing services into enterprise environments.
-
-### AI Agents & Agentic Workflows
-Built AI agent-based systems to automate knowledge work, orchestrate workflows and support operational decision making.
-
-### Dynamic Freight Pricing
-Developed AI and mathematical optimization-based pricing systems for logistics operations.
-
-### Logistics Network Optimization
-Worked on hub network design and operational optimization problems using advanced analytics and serverless architecture.
-
-### AI-Driven Risk Management
-Developed predictive analytics approaches for identifying, predicting and preventing lost orders in logistics operations.
-
-### Warehouse Computer Vision
-Developed computer vision solutions for pedestrian equipment anomaly detection and operational safety monitoring in warehouse environments.
-
-### Aerospace AI Systems
-Led signal processing and machine learning systems for autonomous aerospace platforms, including embedded deployment and real-world validation.
-
-### Biomedical AI Systems
-Designed embedded ECG monitoring and arrhythmia detection systems using signal processing, neural networks and genetic algorithm-based optimization.
-
----
-
-## Technical Leadership Stack
+## Areas of Expertise
 
 ### Artificial Intelligence
-Machine Learning • Deep Learning • Generative AI • AI Agents • LLM Applications • RAG • Recommendation Systems • Computer Vision
+Machine Learning • Deep Learning • Generative AI • AI Agents • LLM Applications • RAG Architectures • Multi-Agent Systems
 
-### Optimization & Analytics
-OR-Tools • Heuristic Models • Mathematical Optimization • Forecasting • Dynamic Pricing • Network Design • Decision Intelligence
+### Optimization & Decision Intelligence
+Vehicle Routing • Network Design • Dynamic Pricing • Mathematical Optimization • OR-Tools • Heuristic Algorithms
 
-### Engineering
-Python • C • C++ • C# • MATLAB • REST APIs • Service Bus • Docker • Git • SQL • NoSQL
+### Computer Vision & Signal Processing
+Object Detection • Anomaly Detection • Industrial AI • Image Processing • FFT • STFT • Wavelet Transform
 
-### Cloud & Platforms
-Azure • AWS • Cloud-native AI Services • Distributed Systems • AI-as-a-Service
+### Enterprise AI & Architecture
+AI Strategy • AI Governance • AI Integration • AI Platforms • AI-as-a-Service • REST APIs • Service Bus
 
-### Signal Processing
-FFT • STFT • Wavelet Transform • Digital Filters • Time-Series Analytics • Embedded Signal Processing
+### Cloud & Engineering
+Python • C • C++ • C# • MATLAB • Azure • AWS • Docker • Git • SQL • NoSQL • n8n • Jira
 
 ---
 
-## Publications & Research
+## Professional Experience
 
-- **AI-Driven Risk Management in Logistics: Predicting and Preventing Lost Orders Using Machine Learning**  
-  DSC Next Conference, Amsterdam, 2025  
-  DOI: `10.5281/zenodo.18399343`
+### Lead of Data Science & Artificial Intelligence  
+**CEVA Logistics & Borusan Logistics**  
+*Jan 2022 – Present*
 
-- **Pedestrian Equipment Anomaly Detection with Computer Vision in Warehouses**  
-  International Conference on Machine Vision and Machine Learning, Barcelona, 2024  
-  DOI: `10.11159/mvml24.110`
+Leading enterprise AI strategy and implementation programs focused on operational excellence, cost optimization and digital transformation.
 
-- **Address Singularization with Text Similarity Algorithms: Address Management in the Logistics Industry**  
-  IN4PL, Rome, 2023  
-  DOI: `10.33422/4th.worldcme.2023.10.100`
+**Key Responsibilities & Impact**
 
-- **Dynamic Freight Pricing by Artificial Intelligence and Mathematical Hybrid System**  
-  CLC Logistics and Supply Chain Management, Prague, 2023  
-  DOI: `10.37904/clc.2023.4859`
+- Lead end-to-end AI lifecycle management from business discovery to deployment
+- Build enterprise-scale Generative AI and AI Agent solutions
+- Develop predictive analytics, recommendation and optimization platforms
+- Integrate AI capabilities into mission-critical business systems
+- Design scalable AI-as-a-Service architectures using cloud and enterprise integration layers
+- Collaborate with business, technology and operations teams to deliver measurable impact
 
-- **The Less Than Truckload Hub Network Design with Serverless Architecture**  
-  CLC Logistics and Supply Chain Management, Slovakia, 2022  
-  DOI: `10.37904/clc.2022.4526`
+**Core Technologies**  
+Python • Azure • AWS • LLMs • AI Agents • Optimization • Computer Vision • REST APIs • Service Bus
 
-- **Design of Embedded System Based ECG Holter Device**  
-  APJES Journal, 2017  
-  DOI: `10.21541/apjes.335275`
+---
 
-- **Detection of Candidate Nodules in Lung Tomography by Image Processing Techniques**  
-  BIYOMUT, 2017  
-  DOI: `10.1109/BIYOMUT.2017.8478990`
+### Team Lead of Signal Processing and Machine Learning  
+**Baykar Defense**  
+*Nov 2018 – Jul 2021*
+
+Led the development of mission-critical AI, signal processing and embedded system solutions for aerospace applications.
+
+**Highlights**
+
+- Designed real-time machine learning solutions for embedded environments
+- Developed anomaly detection and event classification algorithms
+- Converted Python-based ML models into C++ using NVIDIA TensorRT
+- Built high-performance signal processing pipelines using FFT and advanced digital signal processing methods
+- Delivered production-grade embedded AI solutions for autonomous systems
+
+---
+
+### Teaching Assistant  
+**Sakarya University**  
+*2016 – 2018*
+
+Supported undergraduate education and academic projects in Statistics & Probability and Signals & Systems courses.
+
+---
+
+## Education
+
+### MSc, Biomedical Engineering  
+**Sakarya University**  
+*2016 – 2018*  
+GPA: 4.0 / 4.0
+
+### BSc, Electrical & Electronics Engineering  
+**Sakarya University**  
+*2011 – 2016*  
+GPA: 3.6 / 4.0
+
+---
+
+## Selected Publications
+
+### 2025
+
+**AI-Driven Risk Management in Logistics: Predicting and Preventing Lost Orders Using Machine Learning**  
+DSC Next Conference, Amsterdam, Netherlands  
+DOI: 10.5281/zenodo.18399343
+
+### 2024
+
+**Pedestrian Equipment Anomaly Detection with Computer Vision in Warehouses**  
+10th International Conference on Machine Vision and Machine Learning, Barcelona, Spain  
+DOI: 10.11159/mvml24.110
+
+**Internal Auditing in Logistics: AI-driven and Advanced Analytics Solutions**  
+Carpathian Logistics Congress, AGH University of Kraków, Poland
+
+### 2023
+
+**Address Singularization with Text Similarity Algorithms: Address Management in the Logistics Industry**  
+IN4PL 2023, Rome, Italy  
+DOI: 10.33422/4th.worldcme.2023.10.100
+
+**Dynamic Freight Pricing by Artificial Intelligence and Mathematical Hybrid System**  
+CLC Logistics and Supply Chain Management, Prague, Czech Republic  
+DOI: 10.37904/clc.2023.4859
+
+### 2022
+
+**The Less Than Truckload Hub Network Design with Serverless Architecture**  
+CLC Logistics and Supply Chain Management, Bojnice, Slovakia  
+DOI: 10.37904/clc.2022.4526
+
+### Earlier Academic Work
+
+- Design of Embedded System Based ECG Holter Device — DOI: 10.21541/apjes.335275
+- Detection of Candidate Nodules in Lung Tomography by Image Processing Techniques — DOI: 10.1109/BIYOMUT.2017.8478990
+- Design of a Micro-Computer Based Real-Time ECG Holter Device — ICETI Bosnia, 2017
 
 ---
 
 ## Intellectual Property
+
+### Patents
 
 - Domestic Partial Distribution Network Modeling
 - Dynamic Freight Price Forecasting
 
 ---
 
-## Education
+## Awards & Recognition
 
-### Istanbul Technical University
-**MSc, Business Administration and Technology Management**  
-*2026 – Present*
-
-### Sakarya University
-**MSc, Biomedical Engineering**  
-*GPA: 4.00 / 4.00*
-
-### Sakarya University
-**BSc, Electrical & Electronics Engineering**  
-*GPA: 3.60 / 4.00*
+- Best AI Transformation & Implementation — Future of AI and Cloud Summit, 2024
+- Highest Ranked Student — Sakarya University Institute of Science and Technology, 2018
+- Highest Ranked Student — Biomedical Engineering Department, 2018
+- Highest Ranked Student — Technology Faculty, 2016
+- Highest Ranked Student — Electrical & Electronics Engineering Department, 2016
 
 ---
 
-## Recognition
+## AI Vision
 
-- **Best AI Transformation and Implementation** — Future of AI and Cloud Summit, 2024
-- **Highest Ranked Student** — Sakarya University Institute of Science and Technology, 2018
-- **Highest Ranked Student** — Biomedical Engineering Department, 2018
-- **Highest Ranked Student** — Technology Faculty, 2016
-- **Highest Ranked Student** — Electrical & Electronics Engineering Department, 2016
+I believe the next generation of enterprise systems will evolve from software-driven processes to autonomous AI-driven organizations.
 
----
+My focus is on building:
 
-## AI Leadership Philosophy
-
-I believe the next generation of enterprise systems will not only support business processes — they will actively understand, reason, recommend and act.
-
-My leadership focus is to build AI organizations that are:
-
-- Strategic, not experimental
-- Scalable, not isolated
-- Responsible, not uncontrolled
-- Business-driven, not technology-driven
-- Autonomous where possible, human-centered where necessary
-
-The future of enterprise AI is not only about better models.  
-It is about building intelligent operating systems for modern organizations.
+- Agentic AI Systems
+- Enterprise Knowledge Platforms
+- Autonomous Decision Engines
+- AI-Powered Supply Chains
+- Generative AI Ecosystems
 
 ---
 
-<p align="center">
-  <strong>Building AI-native enterprises through intelligent systems, autonomous workflows and decision intelligence.</strong>
-</p>
+## Contact
 
-<p align="center">
-  Istanbul, Türkiye • yesevi.turker@gmail.com
-</p>
+📧 **Email:** yesevi.turker@gmail.com  
+📍 **Location:** Istanbul, Turkey
