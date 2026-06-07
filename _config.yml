@@ -1,11 +1,6 @@
 title: Ahmet Yesevi Turker
 description: Lead of Data Science & Artificial Intelligence
-theme: jekyll-theme-minimal
+
+theme: jekyll-theme-cayman
+
 show_downloads: false
-
-author:
-  name: Ahmet Yesevi Turker
-  email: yesevi.turker@gmail.com
-
-github:
-  is_project_page: false
