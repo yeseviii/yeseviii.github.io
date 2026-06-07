@@ -1,27 +1,11 @@
-# Implementation Guide
+title: Ahmet Yesevi Turker
+description: Lead of Data Science & Artificial Intelligence
+theme: jekyll-theme-minimal
+show_downloads: false
 
-## Option 1 — GitHub Profile README
+author:
+  name: Ahmet Yesevi Turker
+  email: yesevi.turker@gmail.com
 
-1. Create a repository with the exact same name as your GitHub username.
-2. Copy `README.md` into that repository root.
-3. Commit and push.
-4. Your GitHub profile page will show this README automatically.
-
-## Option 2 — GitHub Pages Personal Website
-
-1. Create a repository such as `personal-page` or `ahmet-yesevi-turker`.
-2. Copy these files into the repository root:
-   - `index.md`
-   - `_config.yml`
-   - `README.md`
-3. Go to repository settings.
-4. Open Pages settings.
-5. Select branch: `main` and folder: `/root`.
-6. Save.
-7. GitHub Pages will publish the site after the build completes.
-
-## Recommended Next Edits
-
-- Replace the LinkedIn placeholder in `README.md` with your real LinkedIn URL.
-- Add a professional headshot to `assets/profile.jpg` if desired.
-- Add selected project repositories under a new section called `Selected AI Projects` after publications.
+github:
+  is_project_page: false
