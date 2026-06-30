@@ -136,33 +136,6 @@ June 2013 - August 2013
 
 ---
 
-## PROJECTS
-
-### Design of Embedded System-Based ECG Holter Device and Detection of Arrhythmia by Artificial Neural Network - Genetic Algorithm Hybrid Model
-2016 - 2018
-
-Designed and developed an intelligent embedded healthcare system for continuous ECG monitoring and automated arrhythmia detection, integrating advanced signal processing, machine learning, and optimization techniques.
-
-### Development of a Multi-Irradiation Modulated Photodynamic Therapy Laser System
-2016 - 2018  
-TUBITAK 1005 Project
-
-Worked on electronic circuit design, PID laser temperature control, laser system setup, testing, and validation.
-
-### Design of a Micro-Computer Based Real-Time ECG Holter Device and Real-Time Analysis
-2015 - 2016  
-TUBITAK 2209/B Project
-
-Architected and developed an embedded biomedical monitoring platform for real-time ECG acquisition and analysis.
-
-### National Ventilator Development Consortium
-March 2020 - May 2020  
-Biosys Ventilator
-
-Contributed to software engineering, signal processing, system verification, validation, and industrialization activities during the COVID-19 pandemic.
-
----
-
 ## PUBLICATIONS
 
 - Internal Auditing in Logistics: AI-Driven and Advanced Analytics Solutions — CLC 2024, AGH University of Kraków, Poland
