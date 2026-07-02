@@ -43,7 +43,7 @@ Science Department
 ## EXPERIENCE
 
 ### Ceva Logistics - CMA CGM
-**Lead of Data Science & Artificial Intelligence**  
+**Manager of Data Science & Artificial Intelligence**  
 December 2025 - Present
 
 Leading the design, development, and deployment of enterprise-scale Artificial Intelligence and Data Science solutions, transforming complex business challenges into scalable, production-ready systems.
@@ -122,19 +122,6 @@ June 2013 - August 2013
 
 ---
 
-## TECHNICAL STRENGTHS
-
-| Area | Technologies |
-|---|---|
-| Artificial Intelligence | Machine Learning, Boosting & Bagging Algorithms, Deep Learning, Generative AI, AI Agents |
-| Programming | Python, C, C++, C#, MATLAB |
-| Optimization | OR-Tools, Heuristic Models |
-| Signal Processing | Digital Filters, FFT, STFT, Wavelet Transform, Data Processing |
-| Cloud | Azure, AWS |
-| Integration | REST APIs, Service Bus |
-| Tools | n8n, Jira, Docker, Git, SQL, NoSQL |
-
----
 
 ## PUBLICATIONS
 
